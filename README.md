@@ -1,5 +1,5 @@
 # Using-GeoJson-API/ Coursera
-I had a lot of trouble with this code so im sharing it with you.
+
 
 import urllib.request, urllib.parse, urllib.error
 import json
